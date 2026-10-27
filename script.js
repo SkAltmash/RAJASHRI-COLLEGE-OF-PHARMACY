@@ -486,7 +486,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         // FormSubmit AJAX endpoint (sends leads directly to your email)
-        const emailSubmitURL = 'rcpmehkar@gmail.com';
+        const emailSubmitURL = 'https://formsubmit.co/ajax/rcpmehkar@gmail.com';
 
         fetch(emailSubmitURL, {
           method: 'POST',
